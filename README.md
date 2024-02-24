@@ -1,1 +1,1 @@
-This is a pomodoro timer created using Python and the pygame libraries. It allows the user to take long breaks, short breaks, and to start and pause the pomodoro timer at will. Also includes my favourite anime series as the background art for the application window.
+This is a pomodoro timer created using Python and the pygame libraries. It allows the user to take long breaks, short breaks, and to start and pause the pomodoro timer at will. Also includes my favourite anime series as the background artwork for the application window.
